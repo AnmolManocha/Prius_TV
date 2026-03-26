@@ -42,8 +42,6 @@ The on-device UI uses a deep navy palette, high-contrast type, and restrained re
 
 ## Screenshots
 
-Add or replace PNGs (or JPGs, if you prefer — update the paths below) in **`assets/screenshots/`** so clients always see the same curated set.
-
 | File | Screen |
 |------|--------|
 | `welcome.png` | Welcome / landing |
