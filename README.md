@@ -63,20 +63,6 @@ This portfolio repository ships **screenshots and release binaries only** — no
 
 ---
 
-## Tech (portfolio summary)
-
-- **Expo** and **React Native** for a single Android deliverable with native performance on lobby hardware.
-- **TypeScript** for maintainable UI and data flow.
-- **Content and data** wired through APIs and a headless CMS where appropriate, so copy and listings can evolve without rebuilding for every text change (implementation detail available under NDA for client engagements).
-
----
-
-## Legal & branding
-
-Property names, logos, and photography in screenshots belong to their respective owners. This repository is intended **only for portfolio demonstration** and does **not** include private source, credentials, or environment configuration.
-
----
-
 <p align="center">
   <sub>Portfolio — Prius Platinum · D3, District Centre Saket, New Delhi</sub>
 </p>
