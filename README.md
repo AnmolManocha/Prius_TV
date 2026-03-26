@@ -85,17 +85,11 @@ Until those files exist, leave this section as-is so the README does not show br
 This portfolio repository ships **screenshots and release binaries only** — no application source code.
 
 1. Open **Releases** on your GitHub repo:  
-   `https://github.com/<your-username>/<your-portfolio-repo>/releases/latest`
+   `https://github.com/AnmolManocha/Prius_TV/releases/latest`
 2. Download the latest **`.apk`** from the release assets.
 3. On the Android device, allow install from your browser or files app if prompted (“Install unknown apps”).
 4. Open the APK and finish installation.
 5. Run on a fixed tablet or TV box in **landscape**; layouts are tuned for wide aspect ratios.
-
-**Suggested release notes**
-
-- Tag: `v1.0.0`, `v1.1.0`, …
-- Title: `Prius TV 1.0.0 — Android APK`
-- Body: short changelog, minimum Android version if known, and a pointer to the **Screenshots** section.
 
 ---
 
