@@ -48,26 +48,6 @@ The on-device UI uses a deep navy palette, high-contrast type, and restrained re
 <img width="1201" height="706" alt="Screenshot 2026-03-27 at 2 43 54 AM" src="https://github.com/user-attachments/assets/ead0232d-f55c-49e8-a4eb-ab1c5ba43fa4" />
 <img width="1201" height="706" alt="Screenshot 2026-03-27 at 2 45 33 AM" src="https://github.com/user-attachments/assets/bed94497-f849-4da1-b33b-88541b11d735" />
 
-
-### Welcome
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/911d9f12-33be-43f5-9556-261dcf078fb5" alt="Prius TV welcome screen — WELCOME TO PRIUS PLATINUM, D3 District Centre Saket, with logo, date, time, and weather for New Delhi" width="100%" />
-</p>
-
-### Directory, air quality, market, notices
-
-After you capture each screen, save it with the filename from the table above and drop it next to `welcome.png`. Then add one image block per screen (copy the Welcome block and change the `src` and `alt` text), or use a single row of thumbnails:
-
-```markdown
-<p align="center">
-  <img src="./assets/screenshots/directory.png" alt="Directory" width="49%" />
-  <img src="./assets/screenshots/air-quality.png" alt="Air quality" width="49%" />
-</p>
-```
-
-Until those files exist, leave this section as-is so the README does not show broken images on GitHub.
-
 ---
 
 ## Download
