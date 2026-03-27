@@ -42,6 +42,7 @@ The on-device UI uses a deep navy palette, high-contrast type, and restrained re
 
 ## Screenshots
 
+![output](https://github.com/user-attachments/assets/e71a6382-c409-435a-bf9a-358e99cc105f)
 <img width="1201" height="706" alt="Screenshot 2026-03-27 at 2 47 01 AM" src="https://github.com/user-attachments/assets/b5664f98-40d3-4d9c-a980-d8b2af736561" />
 <img width="1201" height="706" alt="Screenshot 2026-03-27 at 2 43 18 AM" src="https://github.com/user-attachments/assets/ebf9036d-8b88-4131-b322-58c1d7678497" />
 <img width="1201" height="706" alt="Screenshot 2026-03-27 at 2 43 43 AM" src="https://github.com/user-attachments/assets/d4525c3e-306b-42a4-ac39-d58ae7f3e7f1" />
